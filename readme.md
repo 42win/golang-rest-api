@@ -1,5 +1,5 @@
 *catatan
-- setiap uji coba restart servernya agar kode terimplementasi
+- setiap uji coba, restart servernya agar kode terimplementasi
 - setiap nama variabel atau function yg ingin di import untuk digunakan file lain maka huruf pertama nama variabel tsb harus kapital
 - catatan cek jika ada depencies yg kesatuan, misal kita instal echo/v4 maka middleware nya juga harus echo/v4/middleware jangan echo/middleware saja
   
